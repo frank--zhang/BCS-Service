@@ -64,7 +64,7 @@ namespace FlexService
             bbb = bbb.Substring(9);
              * */
 
-            return "Hello World,I am Frank";
+            return "Hello World";
         }
 
         //登陆
