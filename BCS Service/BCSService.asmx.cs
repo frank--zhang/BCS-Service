@@ -64,7 +64,7 @@ namespace FlexService
             bbb = bbb.Substring(9);
              * */
 
-            return "Hello World,I am Frank。Frank is a github。";
+            return "Hello World,I am Frank。Frank is a github。My name is frank--zhang";
         }
 
         //登陆
