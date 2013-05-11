@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\My Disktop\BCSService" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="04/22/2013 15:57:11" />
+    <file relUrl="BCSService.asmx" publishTime="02/22/2012 22:15:43" />
+    <file relUrl="bin/FlexService.pdb" publishTime="04/22/2013 15:57:11" />
+    <file relUrl="bin/FlexService.dll" publishTime="04/22/2013 15:57:12" />
+    <file relUrl="Web.config" publishTime="03/14/2013 18:07:48" />
+  </publishProfile>
+</publishData>

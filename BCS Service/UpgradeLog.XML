@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BCSS">
+</Property><Property Name="解决方案文件" Value="G:\ZRC\code\coding\Bar Code\BCS Service\BCSS.sln">
+</Property><Property Name="用户选项文件" Value="G:\ZRC\code\coding\Bar Code\BCS Service\BCSS.suo">
+</Property><Property Name="Date" Value="2012年3月24日">
+</Property><Property Name="Time" Value="10:50">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BCSS.sln" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\BCSS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BCSS.suo" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\BCSS.suo">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="BCSS.csproj" Description="项目文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\BCSS.csproj">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="BCSS.csproj.user" Description="项目用户文件成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\BCSS.csproj.user">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="BCSService.asmx.cs" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\BCSService.asmx.cs">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="model\KV.cs" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\model\KV.cs">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="model\WSORLine.cs" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\model\WSORLine.cs">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="OperConst.cs" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\OperConst.cs">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="Solution.cs" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\Solution.cs">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="BCSService.asmx" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\BCSService.asmx">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="Web.config" Description="文件已成功备份为 G:\ZRC\code\coding\Bar Code\BCS Service\Backup\Web.config">
+</Event><Event ErrorLevel="1" Project="BCSS" Source="BCSS.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="BCSS.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="BCSS" Source="BCSS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BCSS.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="BCSS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BCSS" Source="BCSS.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

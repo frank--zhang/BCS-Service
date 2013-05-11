@@ -1,0 +1,16 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\John\Desktop\SAP WebService\FlexService1\">
+    <file relUrl="bin/FlexService.dll" publishTime="2011/11/29 23:56:27" />
+    <file relUrl="bin/FlexService.pdb" publishTime="2011/11/29 23:56:27" />
+    <file relUrl="HHService.asmx" publishTime="2011/10/9 21:57:22" />
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="2011/11/29 23:55:40" />
+    <file relUrl="Web.config" publishTime="2011/10/31 9:58:05" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\John\Desktop\SAP WebService\FlexService\">
+    <file relUrl="bin/FlexService.dll" publishTime="2011/11/19 0:44:41" />
+    <file relUrl="bin/FlexService.pdb" publishTime="2011/11/19 0:44:41" />
+    <file relUrl="HHService.asmx" publishTime="2011/10/9 21:57:22" />
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="2011/11/29 23:55:40" />
+    <file relUrl="Web.config" publishTime="2011/10/31 9:58:05" />
+  </publishTarget>
+</publishData>

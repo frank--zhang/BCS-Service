@@ -1,0 +1,8 @@
+F:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\ResolveAssemblyReference.cache
+F:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\Interop.SAPbobsCOM.dll
+F:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\BCSS.csproj.ResolveComReference.cache
+F:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\FlexService.dll
+F:\ZRC\code\coding\Bar Code\BCS Service\bin\FlexService.dll
+F:\ZRC\code\coding\Bar Code\BCS Service\bin\FlexService.pdb
+F:\ZRC\code\coding\Bar Code\BCS Service\bin\Interop.SAPbobsCOM.dll
+F:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\FlexService.pdb

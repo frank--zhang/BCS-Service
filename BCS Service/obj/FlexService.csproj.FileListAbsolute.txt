@@ -1,0 +1,8 @@
+F:\ZRC\code\coding\LYGHH\FlexService\FlexService\bin\FlexService.dll
+F:\ZRC\code\coding\LYGHH\FlexService\FlexService\bin\FlexService.pdb
+F:\ZRC\code\coding\LYGHH\FlexService\FlexService\bin\Interop.SAPbobsCOM.dll
+F:\ZRC\code\coding\LYGHH\FlexService\FlexService\obj\Debug\ResolveAssemblyReference.cache
+F:\ZRC\code\coding\LYGHH\FlexService\FlexService\obj\Debug\Interop.SAPbobsCOM.dll
+F:\ZRC\code\coding\LYGHH\FlexService\FlexService\obj\Debug\FlexService.csproj.ResolveComReference.cache
+F:\ZRC\code\coding\LYGHH\FlexService\FlexService\obj\Debug\FlexService.dll
+F:\ZRC\code\coding\LYGHH\FlexService\FlexService\obj\Debug\FlexService.pdb

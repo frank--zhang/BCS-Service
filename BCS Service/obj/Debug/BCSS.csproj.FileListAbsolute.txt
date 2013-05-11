@@ -1,0 +1,32 @@
+G:\ZRC\code\coding\Bar Code\BCS Service\bin\FlexService.dll
+G:\ZRC\code\coding\Bar Code\BCS Service\bin\FlexService.pdb
+G:\ZRC\code\coding\Bar Code\BCS Service\bin\Interop.SAPbobsCOM.dll
+G:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\ResolveAssemblyReference.cache
+G:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\Interop.SAPbobsCOM.dll
+G:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\BCSS.csproj.ResolveComReference.cache
+G:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\FlexService.dll
+G:\ZRC\code\coding\Bar Code\BCS Service\obj\Debug\FlexService.pdb
+G:\ZRC\code\coding\YTHR\Bar Code\BCS Service\bin\FlexService.dll
+G:\ZRC\code\coding\YTHR\Bar Code\BCS Service\bin\FlexService.pdb
+G:\ZRC\code\coding\YTHR\Bar Code\BCS Service\bin\Interop.SAPbobsCOM.dll
+G:\ZRC\code\coding\YTHR\Bar Code\BCS Service\obj\Debug\ResolveAssemblyReference.cache
+G:\ZRC\code\coding\YTHR\Bar Code\BCS Service\obj\Debug\Interop.SAPbobsCOM.dll
+G:\ZRC\code\coding\YTHR\Bar Code\BCS Service\obj\Debug\BCSS.csproj.ResolveComReference.cache
+G:\ZRC\code\coding\YTHR\Bar Code\BCS Service\obj\Debug\FlexService.dll
+G:\ZRC\code\coding\YTHR\Bar Code\BCS Service\obj\Debug\FlexService.pdb
+C:\Users\frank\Desktop\BCS Service\BCS Service\bin\FlexService.dll
+C:\Users\frank\Desktop\BCS Service\BCS Service\bin\FlexService.pdb
+C:\Users\frank\Desktop\BCS Service\BCS Service\bin\Interop.SAPbobsCOM.dll
+C:\Users\frank\Desktop\BCS Service\BCS Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\frank\Desktop\BCS Service\BCS Service\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\frank\Desktop\BCS Service\BCS Service\obj\Debug\BCSS.csproj.ResolveComReference.cache
+C:\Users\frank\Desktop\BCS Service\BCS Service\obj\Debug\FlexService.dll
+C:\Users\frank\Desktop\BCS Service\BCS Service\obj\Debug\FlexService.pdb
+E:\zhy\GitHub\BCS-Service\BCS Service\bin\FlexService.dll
+E:\zhy\GitHub\BCS-Service\BCS Service\bin\FlexService.pdb
+E:\zhy\GitHub\BCS-Service\BCS Service\bin\Interop.SAPbobsCOM.dll
+E:\zhy\GitHub\BCS-Service\BCS Service\obj\Debug\ResolveAssemblyReference.cache
+E:\zhy\GitHub\BCS-Service\BCS Service\obj\Debug\Interop.SAPbobsCOM.dll
+E:\zhy\GitHub\BCS-Service\BCS Service\obj\Debug\BCSS.csproj.ResolveComReference.cache
+E:\zhy\GitHub\BCS-Service\BCS Service\obj\Debug\FlexService.dll
+E:\zhy\GitHub\BCS-Service\BCS Service\obj\Debug\FlexService.pdb
